@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Eunchul Cha",
-	"description": "this is my first node.js project"
+	"description": "this is my first node.js project",
+	"keywords": [ "descriptive", "related", "words" ]
 }
