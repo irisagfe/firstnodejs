@@ -13,5 +13,6 @@
 	},
 	"author": "Eunchul Cha",
 	"description": "this is my first node.js project",
-	"keywords": [ "descriptive", "freecodecamp", "words" ]
+	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"license": "MIT"
 }
